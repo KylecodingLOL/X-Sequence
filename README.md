@@ -4,7 +4,7 @@ Mathematical Equation
 ## How To run
 Python X-Sequence.py 
 
-play around with the a, b, and m values to see how the outpout changes. Also see how those changes don't effect the starting step of the loop. 
+Play around with the a, b, and m values to see how the outpout changes. Also see how those changes don't effect the starting step of the loop. 
 
 You can also change the starting_point value and see how that changes the steps needed for the numbers to enter an infinite loop.
 
