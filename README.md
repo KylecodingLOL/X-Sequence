@@ -18,4 +18,5 @@ What makes this equation so fascinating is that the number of steps needed to re
 Right now the starting point is 7. If you run the code using the default parameters I have, you'll see that the numbers generated in the output are mostly different but all seem to start their loop at the same time (15th step).
 
 ## X-Sequence paper
+I wrote a paper about it in more detail check it out here :
 [X_Sequence_Equation (6).pdf](https://github.com/KylecodingLOL/X-Sequence/files/12965658/X_Sequence_Equation.6.pdf)
