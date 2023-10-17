@@ -2,7 +2,8 @@
 Mathematical Equation
 
 ## How To run
-Python X-Sequence.py 
+Clone the repository and run Python X-Sequence.py 
+--------------------------------------------------------
 
 Play around with the a, b, and m values to see how the outpout changes. Also see how those changes don't effect the starting step of the loop. 
 
