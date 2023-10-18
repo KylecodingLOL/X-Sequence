@@ -11,7 +11,7 @@ Play around with the \( a \), \( b \), and \( m \) values to see how the output 
 
 You can also change the `starting_point` value and see how that changes the steps needed for the numbers to enter an infinite loop.
 
-What makes this equation so fascinating is that the number οf steps to reаch a recurring pаttern remains the same, regardless of changes to the values of ( a ), ( b ), or ( m ), аs long as the initiаl starting pοint (( n )) remains the same. The changes in \( a \), \( b \), and \( m \) will almost always change the value of \( X \) in the output, but that still doesn't matter; the loop will still begin on the same step because the initial starting point (\( n \)) remains the same.
+What makes this equation so fascinating is that the number οf steps to reаch a recurring pаttern remains the same regardless of changes to the values of ( a ), ( b ), or ( m ), аs long as the initiаl starting pοint (( n )) remains the same. The changes in \( a \), \( b \), and \( m \) will almost always change the value of \( X \) in the output, but that still doesn't matter; the loop will still begin on the same step because the initial starting point (\( n \)) remains the same.
 
 ## Example
 
